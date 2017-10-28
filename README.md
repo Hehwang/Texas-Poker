@@ -7,11 +7,11 @@
 
 假设现在有三位玩家A B C 拿到的底牌分别是:
 
-![a](pokerImg\a.png)
+![a](https://github.com/Hehwang/Texas-Poker/blob/master/pokerImg/a.png)
 
-![b](pokerImg\b.png)
+![b](https://github.com/Hehwang/Texas-Poker/blob/master/pokerImg/b.png)
 
-![c](pokerImg\c.png)
+![c](https://github.com/Hehwang/Texas-Poker/blob/master/pokerImg/c.png)
 
 ```python
 if __name__=="__main__":
